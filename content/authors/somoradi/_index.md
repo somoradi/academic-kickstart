@@ -58,13 +58,16 @@ email: "somoradi@gmail.com"
 ---
 
 ### **About me:**
-Hi. I am a current 4th year PhD candidate in the [Linguistics Department](https://linguistics.stonybrook.edu/) at Stony Brook University. My primary research interests lie in linguistic morphology and its interfaces. My thesis, co-advised by Mark Aronoff and Thomas Graf, deals with monotonic functions (mappings) in morphological paradigms.
+I am a PhD candidate in the [Linguistics Department](https://linguistics.stonybrook.edu/) at Stony Brook University. My thesis, co-advised by Mark Aronoff and Thomas Graf, deals with monotonic functions (mappings) in morphological paradigms.
 
 #### **Interests:**
-- Word Structure
-- Inflectional Paradigms
+#- Word Structure
+#- Inflectional Paradigms
 - Morphological Complexity
+- Typological morphosyntax
 - Typology of Iranian Languages
+- Natural Language Understanding
+
 
 <hr />
 
